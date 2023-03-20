@@ -1,0 +1,23 @@
+{
+  "name": "pres",
+  "version": "1.0.0",
+  "description": "![yo](./src/imagenes/IMG_20190531_101655_396.jpg \"Este soy yo\")",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codex-00/presentaci-n-personal.git"
+  },
+  "author": "Alejo Ezequiel Escurra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codex-00/presentaci-n-personal/issues"
+  },
+  "homepage": "https://github.com/codex-00/presentaci-n-personal#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
