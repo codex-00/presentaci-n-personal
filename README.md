@@ -10,4 +10,8 @@ Me gusta todo lo que es ***Seguridad Informática*** y ***Redes***, por eso esto
 
 ## Otros datos
 - Edad: 22
-- Vivo en el partido de José C. Paz
+- Vivo en el partido de José C. Paz.
+- Otros intereses: 
+    - Astronomía.
+    - Videojuegos.
+    - Futbol.
